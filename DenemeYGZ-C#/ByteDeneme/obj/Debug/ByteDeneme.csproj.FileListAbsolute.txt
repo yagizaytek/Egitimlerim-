@@ -1,0 +1,7 @@
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\ByteDeneme\bin\Debug\ByteDeneme.exe.config
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\ByteDeneme\bin\Debug\ByteDeneme.exe
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\ByteDeneme\bin\Debug\ByteDeneme.pdb
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\ByteDeneme\obj\Debug\ByteDeneme.csproj.AssemblyReference.cache
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\ByteDeneme\obj\Debug\ByteDeneme.csproj.CoreCompileInputs.cache
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\ByteDeneme\obj\Debug\ByteDeneme.exe
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\ByteDeneme\obj\Debug\ByteDeneme.pdb

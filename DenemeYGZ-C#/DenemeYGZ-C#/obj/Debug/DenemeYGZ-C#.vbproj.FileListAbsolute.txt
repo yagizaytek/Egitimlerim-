@@ -1,0 +1,11 @@
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\DenemeYGZ-C#\bin\Debug\DenemeYGZ-C#.exe.config
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\DenemeYGZ-C#\bin\Debug\DenemeYGZ-C#.exe
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\DenemeYGZ-C#\bin\Debug\DenemeYGZ-C#.pdb
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\DenemeYGZ-C#\bin\Debug\DenemeYGZ-C#.xml
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\DenemeYGZ-C#\obj\Debug\DenemeYGZ-C#.vbproj.AssemblyReference.cache
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\DenemeYGZ-C#\obj\Debug\DenemeYGZ_C_.Resources.resources
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\DenemeYGZ-C#\obj\Debug\DenemeYGZ-C#.vbproj.GenerateResource.cache
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\DenemeYGZ-C#\obj\Debug\DenemeYGZ-C#.vbproj.CoreCompileInputs.cache
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\DenemeYGZ-C#\obj\Debug\DenemeYGZ-C#.exe
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\DenemeYGZ-C#\obj\Debug\DenemeYGZ-C#.xml
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\DenemeYGZ-C#\obj\Debug\DenemeYGZ-C#.pdb

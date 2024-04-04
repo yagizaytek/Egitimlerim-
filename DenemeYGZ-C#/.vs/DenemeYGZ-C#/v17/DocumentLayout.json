@@ -1,0 +1,506 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C7D049-D26F-4C34-BB01-9DBE7043A987}|ForeachDeneme\\ForeachDeneme.csproj|c:\\users\\yagiz.aytek\\source\\repos\\denemeygz-c#\\foreachdeneme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C7D049-D26F-4C34-BB01-9DBE7043A987}|ForeachDeneme\\ForeachDeneme.csproj|solutionrelative:foreachdeneme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C625C8F-1C3D-475F-B6D5-AD3FFCB91F9D}|Araba\\Araba.csproj|c:\\users\\yagiz.aytek\\source\\repos\\denemeygz-c#\\araba\\araba1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C625C8F-1C3D-475F-B6D5-AD3FFCB91F9D}|Araba\\Araba.csproj|solutionrelative:araba\\araba1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C625C8F-1C3D-475F-B6D5-AD3FFCB91F9D}|Araba\\Araba.csproj|C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\araba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C625C8F-1C3D-475F-B6D5-AD3FFCB91F9D}|Araba\\Araba.csproj|solutionrelative:araba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7712B678-26B9-4194-9F11-BC1C77DE8F7F}|MiniATM\\MiniATM.csproj|C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\miniatm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7712B678-26B9-4194-9F11-BC1C77DE8F7F}|MiniATM\\MiniATM.csproj|solutionrelative:miniatm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A31373-31A5-41A9-B8F6-C91268EFC87B}|deneme\\deneme.csproj|C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\deneme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A31373-31A5-41A9-B8F6-C91268EFC87B}|deneme\\deneme.csproj|solutionrelative:deneme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC48D71-A5F4-46B3-AF0C-DA79566E3531}|D\u00F6ng\u00FCler\\D\u00F6ng\u00FCler.csproj|C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\d\u00F6ng\u00FCler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CC48D71-A5F4-46B3-AF0C-DA79566E3531}|D\u00F6ng\u00FCler\\D\u00F6ng\u00FCler.csproj|solutionrelative:d\u00F6ng\u00FCler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A139D1B-5A80-4403-B33E-A96C33B9A4D4}|BedenKitleEndeksi\\BedenKitleEndeksi.csproj|C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\bedenkitleendeksi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A139D1B-5A80-4403-B33E-A96C33B9A4D4}|BedenKitleEndeksi\\BedenKitleEndeksi.csproj|solutionrelative:bedenkitleendeksi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3909503F-448F-4C9F-BB7E-5059E1BFA391}|Ko\u015FulYap\u0131s\u0131Not\u00D6rne\u011Fi\\Ko\u015FulYap\u0131s\u0131Not\u00D6rne\u011Fi.csproj|C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\ko\u015Fulyap\u0131s\u0131not\u00F6rne\u011Fi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3909503F-448F-4C9F-BB7E-5059E1BFA391}|Ko\u015FulYap\u0131s\u0131Not\u00D6rne\u011Fi\\Ko\u015FulYap\u0131s\u0131Not\u00D6rne\u011Fi.csproj|solutionrelative:ko\u015Fulyap\u0131s\u0131not\u00F6rne\u011Fi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9334B362-7E3A-4B40-822F-9AA6A95F27AF}|DENEMEEE\\DENEMEEE.csproj|C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\denemeee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9334B362-7E3A-4B40-822F-9AA6A95F27AF}|DENEMEEE\\DENEMEEE.csproj|solutionrelative:denemeee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B703AC65-BFCA-475D-A222-F9302CD3CE8E}|SwitchCase\\SwitchCase.csproj|C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\switchcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B703AC65-BFCA-475D-A222-F9302CD3CE8E}|SwitchCase\\SwitchCase.csproj|solutionrelative:switchcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69ECBFF2-0A37-40DE-8165-5924548C2D1C}|DoWhile\\DoWhile.csproj|C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\dowhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69ECBFF2-0A37-40DE-8165-5924548C2D1C}|DoWhile\\DoWhile.csproj|solutionrelative:dowhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862B6053-AC36-458B-9AA8-6B88A51A3E10}|Kullan\u0131c\u0131danDe\u011FerAlma\\Kullan\u0131c\u0131danDe\u011FerAlma.csproj|C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\kullan\u0131c\u0131dande\u011Feralma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862B6053-AC36-458B-9AA8-6B88A51A3E10}|Kullan\u0131c\u0131danDe\u011FerAlma\\Kullan\u0131c\u0131danDe\u011FerAlma.csproj|solutionrelative:kullan\u0131c\u0131dande\u011Feralma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC8F0E7-D8CA-4C1C-873D-D02A30A7290B}|\u0130f-Else\\\u0130f-Else.csproj|C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\\u0130f-else\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CC8F0E7-D8CA-4C1C-873D-D02A30A7290B}|\u0130f-Else\\\u0130f-Else.csproj|solutionrelative:\u0130f-else\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7F679B-B5E3-425B-AE39-1F6131148A73}|TekrarDeneme\\TekrarDeneme.csproj|C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\tekrardeneme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF7F679B-B5E3-425B-AE39-1F6131148A73}|TekrarDeneme\\TekrarDeneme.csproj|solutionrelative:tekrardeneme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{B907D9A2-F3E6-4B41-A507-7866E2BE40A6}|Toplama\u00C7\u0131karmDeneme\\Toplama\u00C7\u0131karmDeneme.csproj|c:\\users\\yagiz.aytek\\source\\repos\\denemeygz-c#\\toplama\u00E7\u0131karmdeneme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{B907D9A2-F3E6-4B41-A507-7866E2BE40A6}|Toplama\u00C7\u0131karmDeneme\\Toplama\u00C7\u0131karmDeneme.csproj|solutionrelative:toplama\u00E7\u0131karmdeneme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC53E73-5740-49AE-9737-6139042D7B5C}|FloatDeneme\\FloatDeneme.csproj|C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\floatdeneme\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{ECC53E73-5740-49AE-9737-6139042D7B5C}|FloatDeneme\\FloatDeneme.csproj|solutionrelative:floatdeneme\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC53E73-5740-49AE-9737-6139042D7B5C}|FloatDeneme\\FloatDeneme.csproj|C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\floatdeneme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC53E73-5740-49AE-9737-6139042D7B5C}|FloatDeneme\\FloatDeneme.csproj|solutionrelative:floatdeneme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29182F4A-0BE5-424B-A129-425900E67D2A}|LongDeneme\\LongDeneme.csproj|C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\longdeneme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29182F4A-0BE5-424B-A129-425900E67D2A}|LongDeneme\\LongDeneme.csproj|solutionrelative:longdeneme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D34764F-451C-4AF5-B77C-A7A928D4C0C0}|StringDeneme\\StringDeneme.csproj|C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\stringdeneme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D34764F-451C-4AF5-B77C-A7A928D4C0C0}|StringDeneme\\StringDeneme.csproj|solutionrelative:stringdeneme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F92BB9A-9014-4D6C-8FB7-3B772365C2BB}|ObjectDeneme\\ObjectDeneme.csproj|C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\objectdeneme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F92BB9A-9014-4D6C-8FB7-3B772365C2BB}|ObjectDeneme\\ObjectDeneme.csproj|solutionrelative:objectdeneme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{B907D9A2-F3E6-4B41-A507-7866E2BE40A6}|Toplama\u00C7\u0131karmDeneme\\Toplama\u00C7\u0131karmDeneme.csproj|c:\\users\\yagiz.aytek\\source\\repos\\denemeygz-c#\\toplama\u00E7\u0131karmdeneme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{B907D9A2-F3E6-4B41-A507-7866E2BE40A6}|Toplama\u00C7\u0131karmDeneme\\Toplama\u00C7\u0131karmDeneme.csproj|solutionrelative:toplama\u00E7\u0131karmdeneme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C1CCC9-4CC7-4DC4-B5BF-790D80B26FBC}|BoolDeneme\\BoolDeneme.csproj|C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\booldeneme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C1CCC9-4CC7-4DC4-B5BF-790D80B26FBC}|BoolDeneme\\BoolDeneme.csproj|solutionrelative:booldeneme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE543DF-4EBD-43E0-AD73-CF5151375B37}|BreakpointveTooltip\\BreakpointveTooltip.csproj|C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\breakpointvetooltip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE543DF-4EBD-43E0-AD73-CF5151375B37}|BreakpointveTooltip\\BreakpointveTooltip.csproj|solutionrelative:breakpointvetooltip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA97E8DE-3F05-484A-8E91-25E9D656E78B}|T\u00FCrD\u00F6n\u00FC\u015F\u00FCmleri\\T\u00FCrD\u00F6n\u00FC\u015F\u00FCmleri.csproj|C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\t\u00FCrd\u00F6n\u00FC\u015F\u00FCmleri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA97E8DE-3F05-484A-8E91-25E9D656E78B}|T\u00FCrD\u00F6n\u00FC\u015F\u00FCmleri\\T\u00FCrD\u00F6n\u00FC\u015F\u00FCmleri.csproj|solutionrelative:t\u00FCrd\u00F6n\u00FC\u015F\u00FCmleri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D32E8F40-AE15-4501-91AD-05ABE90F5246}|IntDeneme\\IntDeneme.csproj|C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\intdeneme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D32E8F40-AE15-4501-91AD-05ABE90F5246}|IntDeneme\\IntDeneme.csproj|solutionrelative:intdeneme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D123E7E4-6C4B-4EFA-B600-EE8FA7C70974}|ShortDeneme\\ShortDeneme.csproj|C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\shortdeneme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D123E7E4-6C4B-4EFA-B600-EE8FA7C70974}|ShortDeneme\\ShortDeneme.csproj|solutionrelative:shortdeneme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA54274-50D7-4568-9767-867928D6B002}|KonsolUygulamas\u0131C#-1\\KonsolUygulamas\u0131C#-1.csproj|C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\konsoluygulamas\u0131c#-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA54274-50D7-4568-9767-867928D6B002}|KonsolUygulamas\u0131C#-1\\KonsolUygulamas\u0131C#-1.csproj|solutionrelative:konsoluygulamas\u0131c#-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44128A76-F717-47ED-83EE-90829E169F9B}|DoubleDeneme\\DoubleDeneme.csproj|C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\doubledeneme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44128A76-F717-47ED-83EE-90829E169F9B}|DoubleDeneme\\DoubleDeneme.csproj|solutionrelative:doubledeneme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4445933A-BB59-41A9-AC3A-C35027B3758D}|CharDeneme\\CharDeneme.csproj|C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\chardeneme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4445933A-BB59-41A9-AC3A-C35027B3758D}|CharDeneme\\CharDeneme.csproj|solutionrelative:chardeneme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2321DA5F-A6EF-419F-9B84-91622C17E7EF}|ByteDeneme\\ByteDeneme.csproj|C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\bytedeneme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2321DA5F-A6EF-419F-9B84-91622C17E7EF}|ByteDeneme\\ByteDeneme.csproj|solutionrelative:bytedeneme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\ForeachDeneme\\Program.cs",
+              "RelativeDocumentMoniker": "ForeachDeneme\\Program.cs",
+              "ToolTip": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\ForeachDeneme\\Program.cs",
+              "RelativeToolTip": "ForeachDeneme\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T06:56:46.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Araba1.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\Araba\\Araba1.cs",
+              "RelativeDocumentMoniker": "Araba\\Araba1.cs",
+              "ToolTip": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\Araba\\Araba1.cs",
+              "RelativeToolTip": "Araba\\Araba1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T12:14:41.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\Araba\\Program.cs",
+              "RelativeDocumentMoniker": "Araba\\Program.cs",
+              "ToolTip": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\Araba\\Program.cs",
+              "RelativeToolTip": "Araba\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T12:14:09.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\MiniATM\\Program.cs",
+              "RelativeDocumentMoniker": "MiniATM\\Program.cs",
+              "ToolTip": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\MiniATM\\Program.cs",
+              "RelativeToolTip": "MiniATM\\Program.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAUwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T09:44:34.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\DoWhile\\Program.cs",
+              "RelativeDocumentMoniker": "DoWhile\\Program.cs",
+              "ToolTip": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\DoWhile\\Program.cs",
+              "RelativeToolTip": "DoWhile\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T10:58:06.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\deneme\\Program.cs",
+              "RelativeDocumentMoniker": "deneme\\Program.cs",
+              "ToolTip": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\deneme\\Program.cs",
+              "RelativeToolTip": "deneme\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwA0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T11:12:05.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\DENEMEEE\\Program.cs",
+              "RelativeDocumentMoniker": "DENEMEEE\\Program.cs",
+              "ToolTip": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\DENEMEEE\\Program.cs",
+              "RelativeToolTip": "DENEMEEE\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T15:34:56.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\D\u00F6ng\u00FCler\\Program.cs",
+              "RelativeDocumentMoniker": "D\u00F6ng\u00FCler\\Program.cs",
+              "ToolTip": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\D\u00F6ng\u00FCler\\Program.cs",
+              "RelativeToolTip": "D\u00F6ng\u00FCler\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAQwCYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T11:46:25.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\SwitchCase\\Program.cs",
+              "RelativeDocumentMoniker": "SwitchCase\\Program.cs",
+              "ToolTip": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\SwitchCase\\Program.cs",
+              "RelativeToolTip": "SwitchCase\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T11:30:29.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\BedenKitleEndeksi\\Program.cs",
+              "RelativeDocumentMoniker": "BedenKitleEndeksi\\Program.cs",
+              "ToolTip": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\BedenKitleEndeksi\\Program.cs",
+              "RelativeToolTip": "BedenKitleEndeksi\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T10:55:43.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\Ko\u015FulYap\u0131s\u0131Not\u00D6rne\u011Fi\\Program.cs",
+              "RelativeDocumentMoniker": "Ko\u015FulYap\u0131s\u0131Not\u00D6rne\u011Fi\\Program.cs",
+              "ToolTip": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\Ko\u015FulYap\u0131s\u0131Not\u00D6rne\u011Fi\\Program.cs",
+              "RelativeToolTip": "Ko\u015FulYap\u0131s\u0131Not\u00D6rne\u011Fi\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T08:56:45.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\Kullan\u0131c\u0131danDe\u011FerAlma\\Program.cs",
+              "RelativeDocumentMoniker": "Kullan\u0131c\u0131danDe\u011FerAlma\\Program.cs",
+              "ToolTip": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\Kullan\u0131c\u0131danDe\u011FerAlma\\Program.cs",
+              "RelativeToolTip": "Kullan\u0131c\u0131danDe\u011FerAlma\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T10:23:56.747Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\\u0130f-Else\\Program.cs",
+              "RelativeDocumentMoniker": "\u0130f-Else\\Program.cs",
+              "ToolTip": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\\u0130f-Else\\Program.cs",
+              "RelativeToolTip": "\u0130f-Else\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T07:45:53.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\TekrarDeneme\\Program.cs",
+              "RelativeDocumentMoniker": "TekrarDeneme\\Program.cs",
+              "ToolTip": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\TekrarDeneme\\Program.cs",
+              "RelativeToolTip": "TekrarDeneme\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T12:32:27.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\BreakpointveTooltip\\Program.cs",
+              "RelativeDocumentMoniker": "BreakpointveTooltip\\Program.cs",
+              "ToolTip": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\BreakpointveTooltip\\Program.cs",
+              "RelativeToolTip": "BreakpointveTooltip\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T10:00:08.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\BoolDeneme\\Program.cs",
+              "RelativeDocumentMoniker": "BoolDeneme\\Program.cs",
+              "ToolTip": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\BoolDeneme\\Program.cs",
+              "RelativeToolTip": "BoolDeneme\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T08:26:06.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\Toplama\u00C7\u0131karmDeneme\\Program.cs",
+              "RelativeDocumentMoniker": "Toplama\u00C7\u0131karmDeneme\\Program.cs",
+              "ToolTip": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\Toplama\u00C7\u0131karmDeneme\\Program.cs",
+              "RelativeToolTip": "Toplama\u00C7\u0131karmDeneme\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T07:14:14.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\Toplama\u00C7\u0131karmDeneme\\Program.cs",
+              "RelativeDocumentMoniker": "Toplama\u00C7\u0131karmDeneme\\Program.cs",
+              "ToolTip": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\Toplama\u00C7\u0131karmDeneme\\Program.cs",
+              "RelativeToolTip": "Toplama\u00C7\u0131karmDeneme\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T06:31:27.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\ObjectDeneme\\Program.cs",
+              "RelativeDocumentMoniker": "ObjectDeneme\\Program.cs",
+              "ToolTip": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\ObjectDeneme\\Program.cs",
+              "RelativeToolTip": "ObjectDeneme\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T06:26:43.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\StringDeneme\\Program.cs",
+              "RelativeDocumentMoniker": "StringDeneme\\Program.cs",
+              "ToolTip": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\StringDeneme\\Program.cs",
+              "RelativeToolTip": "StringDeneme\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T06:26:32.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\LongDeneme\\Program.cs",
+              "RelativeDocumentMoniker": "LongDeneme\\Program.cs",
+              "ToolTip": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\LongDeneme\\Program.cs",
+              "RelativeToolTip": "LongDeneme\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T06:26:13.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\T\u00FCrD\u00F6n\u00FC\u015F\u00FCmleri\\Program.cs",
+              "RelativeDocumentMoniker": "T\u00FCrD\u00F6n\u00FC\u015F\u00FCmleri\\Program.cs",
+              "ToolTip": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\T\u00FCrD\u00F6n\u00FC\u015F\u00FCmleri\\Program.cs",
+              "RelativeToolTip": "T\u00FCrD\u00F6n\u00FC\u015F\u00FCmleri\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T10:57:15.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\FloatDeneme\\Program.cs",
+              "RelativeDocumentMoniker": "FloatDeneme\\Program.cs",
+              "ToolTip": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\FloatDeneme\\Program.cs",
+              "RelativeToolTip": "FloatDeneme\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T06:25:39.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\FloatDeneme\\App.config",
+              "RelativeDocumentMoniker": "FloatDeneme\\App.config",
+              "ToolTip": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\FloatDeneme\\App.config",
+              "RelativeToolTip": "FloatDeneme\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-19T06:25:33.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\DoubleDeneme\\Program.cs",
+              "RelativeDocumentMoniker": "DoubleDeneme\\Program.cs",
+              "ToolTip": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\DoubleDeneme\\Program.cs",
+              "RelativeToolTip": "DoubleDeneme\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T06:25:16.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\CharDeneme\\Program.cs",
+              "RelativeDocumentMoniker": "CharDeneme\\Program.cs",
+              "ToolTip": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\CharDeneme\\Program.cs",
+              "RelativeToolTip": "CharDeneme\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T06:24:56.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\KonsolUygulamas\u0131C#-1\\Program.cs",
+              "RelativeDocumentMoniker": "KonsolUygulamas\u0131C#-1\\Program.cs",
+              "ToolTip": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\KonsolUygulamas\u0131C#-1\\Program.cs",
+              "RelativeToolTip": "KonsolUygulamas\u0131C#-1\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T07:04:22.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\IntDeneme\\Program.cs",
+              "RelativeDocumentMoniker": "IntDeneme\\Program.cs",
+              "ToolTip": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\IntDeneme\\Program.cs",
+              "RelativeToolTip": "IntDeneme\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswBIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T11:32:57.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\ShortDeneme\\Program.cs",
+              "RelativeDocumentMoniker": "ShortDeneme\\Program.cs",
+              "ToolTip": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\ShortDeneme\\Program.cs",
+              "RelativeToolTip": "ShortDeneme\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T11:26:16.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\ByteDeneme\\Program.cs",
+              "RelativeDocumentMoniker": "ByteDeneme\\Program.cs",
+              "ToolTip": "C:\\Users\\yagiz.aytek\\source\\repos\\DenemeYGZ-C#\\ByteDeneme\\Program.cs",
+              "RelativeToolTip": "ByteDeneme\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T10:40:57.632Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

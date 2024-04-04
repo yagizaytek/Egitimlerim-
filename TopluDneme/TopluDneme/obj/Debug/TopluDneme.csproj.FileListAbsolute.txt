@@ -1,0 +1,7 @@
+C:\Users\yagiz.aytek\source\repos\TopluDneme\TopluDneme\bin\Debug\TopluDneme.exe.config
+C:\Users\yagiz.aytek\source\repos\TopluDneme\TopluDneme\bin\Debug\TopluDneme.exe
+C:\Users\yagiz.aytek\source\repos\TopluDneme\TopluDneme\bin\Debug\TopluDneme.pdb
+C:\Users\yagiz.aytek\source\repos\TopluDneme\TopluDneme\obj\Debug\TopluDneme.csproj.AssemblyReference.cache
+C:\Users\yagiz.aytek\source\repos\TopluDneme\TopluDneme\obj\Debug\TopluDneme.csproj.CoreCompileInputs.cache
+C:\Users\yagiz.aytek\source\repos\TopluDneme\TopluDneme\obj\Debug\TopluDneme.exe
+C:\Users\yagiz.aytek\source\repos\TopluDneme\TopluDneme\obj\Debug\TopluDneme.pdb

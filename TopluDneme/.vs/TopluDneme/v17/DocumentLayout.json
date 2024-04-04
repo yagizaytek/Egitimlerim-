@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yagiz.aytek\\source\\repos\\TopluDneme\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9839FBF2-C8F7-4CED-9F7C-ADDBF6413B83}|TopluDneme\\TopluDneme.csproj|c:\\users\\yagiz.aytek\\source\\repos\\topludneme\\topludneme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9839FBF2-C8F7-4CED-9F7C-ADDBF6413B83}|TopluDneme\\TopluDneme.csproj|solutionrelative:topludneme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9839FBF2-C8F7-4CED-9F7C-ADDBF6413B83}|TopluDneme\\TopluDneme.csproj|C:\\Users\\yagiz.aytek\\source\\repos\\TopluDneme\\topludneme\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9839FBF2-C8F7-4CED-9F7C-ADDBF6413B83}|TopluDneme\\TopluDneme.csproj|solutionrelative:topludneme\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz.aytek\\source\\repos\\TopluDneme\\TopluDneme\\Program.cs",
+              "RelativeDocumentMoniker": "TopluDneme\\Program.cs",
+              "ToolTip": "C:\\Users\\yagiz.aytek\\source\\repos\\TopluDneme\\TopluDneme\\Program.cs",
+              "RelativeToolTip": "TopluDneme\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCQAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T11:26:33.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ogrenci.cs",
+              "DocumentMoniker": "C:\\Users\\yagiz.aytek\\source\\repos\\TopluDneme\\TopluDneme\\Ogrenci.cs",
+              "RelativeDocumentMoniker": "TopluDneme\\Ogrenci.cs",
+              "ToolTip": "C:\\Users\\yagiz.aytek\\source\\repos\\TopluDneme\\TopluDneme\\Ogrenci.cs",
+              "RelativeToolTip": "TopluDneme\\Ogrenci.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwD4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T11:27:34.523Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

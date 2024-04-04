@@ -1,0 +1,7 @@
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\BedenKitleEndeksi\obj\Debug\BedenKitleEndeksi.csproj.AssemblyReference.cache
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\BedenKitleEndeksi\obj\Debug\BedenKitleEndeksi.csproj.CoreCompileInputs.cache
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\BedenKitleEndeksi\bin\Debug\BedenKitleEndeksi.exe.config
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\BedenKitleEndeksi\bin\Debug\BedenKitleEndeksi.exe
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\BedenKitleEndeksi\bin\Debug\BedenKitleEndeksi.pdb
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\BedenKitleEndeksi\obj\Debug\BedenKitleEndeksi.exe
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\BedenKitleEndeksi\obj\Debug\BedenKitleEndeksi.pdb

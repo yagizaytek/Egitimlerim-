@@ -1,0 +1,7 @@
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\BreakpointveTooltip\bin\Debug\BreakpointveTooltip.exe.config
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\BreakpointveTooltip\bin\Debug\BreakpointveTooltip.exe
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\BreakpointveTooltip\bin\Debug\BreakpointveTooltip.pdb
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\BreakpointveTooltip\obj\Debug\BreakpointveTooltip.csproj.AssemblyReference.cache
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\BreakpointveTooltip\obj\Debug\BreakpointveTooltip.csproj.CoreCompileInputs.cache
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\BreakpointveTooltip\obj\Debug\BreakpointveTooltip.exe
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\BreakpointveTooltip\obj\Debug\BreakpointveTooltip.pdb

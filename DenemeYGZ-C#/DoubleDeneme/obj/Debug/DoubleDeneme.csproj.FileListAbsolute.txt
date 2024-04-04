@@ -1,0 +1,7 @@
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\DoubleDeneme\obj\Debug\DoubleDeneme.csproj.AssemblyReference.cache
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\DoubleDeneme\obj\Debug\DoubleDeneme.csproj.CoreCompileInputs.cache
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\DoubleDeneme\bin\Debug\DoubleDeneme.exe.config
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\DoubleDeneme\bin\Debug\DoubleDeneme.exe
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\DoubleDeneme\bin\Debug\DoubleDeneme.pdb
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\DoubleDeneme\obj\Debug\DoubleDeneme.exe
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\DoubleDeneme\obj\Debug\DoubleDeneme.pdb

@@ -1,0 +1,7 @@
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\CharDeneme\bin\Debug\CharDeneme.exe.config
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\CharDeneme\bin\Debug\CharDeneme.exe
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\CharDeneme\bin\Debug\CharDeneme.pdb
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\CharDeneme\obj\Debug\CharDeneme.csproj.AssemblyReference.cache
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\CharDeneme\obj\Debug\CharDeneme.csproj.CoreCompileInputs.cache
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\CharDeneme\obj\Debug\CharDeneme.exe
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\CharDeneme\obj\Debug\CharDeneme.pdb

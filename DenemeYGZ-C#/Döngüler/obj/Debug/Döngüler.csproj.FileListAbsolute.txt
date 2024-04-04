@@ -1,0 +1,7 @@
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\Döngüler\bin\Debug\Döngüler.exe.config
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\Döngüler\bin\Debug\Döngüler.exe
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\Döngüler\bin\Debug\Döngüler.pdb
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\Döngüler\obj\Debug\Döngüler.csproj.AssemblyReference.cache
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\Döngüler\obj\Debug\Döngüler.csproj.CoreCompileInputs.cache
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\Döngüler\obj\Debug\Döngüler.exe
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\Döngüler\obj\Debug\Döngüler.pdb

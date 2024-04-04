@@ -1,0 +1,7 @@
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\DENEMEEE\bin\Debug\DENEMEEE.exe.config
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\DENEMEEE\bin\Debug\DENEMEEE.exe
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\DENEMEEE\bin\Debug\DENEMEEE.pdb
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\DENEMEEE\obj\Debug\DENEMEEE.csproj.AssemblyReference.cache
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\DENEMEEE\obj\Debug\DENEMEEE.csproj.CoreCompileInputs.cache
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\DENEMEEE\obj\Debug\DENEMEEE.exe
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\DENEMEEE\obj\Debug\DENEMEEE.pdb

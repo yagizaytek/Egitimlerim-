@@ -1,0 +1,7 @@
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\BoolDeneme\bin\Debug\BoolDeneme.exe.config
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\BoolDeneme\bin\Debug\BoolDeneme.exe
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\BoolDeneme\bin\Debug\BoolDeneme.pdb
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\BoolDeneme\obj\Debug\BoolDeneme.csproj.AssemblyReference.cache
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\BoolDeneme\obj\Debug\BoolDeneme.csproj.CoreCompileInputs.cache
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\BoolDeneme\obj\Debug\BoolDeneme.exe
+C:\Users\yagiz.aytek\source\repos\DenemeYGZ-C#\BoolDeneme\obj\Debug\BoolDeneme.pdb
